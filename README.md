@@ -1,10 +1,13 @@
 # GIS Python
 ## NRS528_Coding Challenges
+---------------------------
 
 
 ### **Coding Challenge 1**
 
 *A little About Me*
+
+![It Me](https://www.facebook.com/photo/?fbid=10217122612445912&set=a.1377261440050)
 
 * My name is Lauren Farnsworth, I'm in my second year of the Marine Affairs :ocean: Masters Program. 
 * I'm currently working on a thesis project that has a lot to do with Rhode Island boaters' toilet habits :poop: .
@@ -16,8 +19,6 @@
 * I have a super cute dog :dog: . Her name is Olga, and she is afraid of everything.
 ----------------------------------------------------------------------------
 
-![Image of Olga]
-(https://www.facebook.com/photo/?fbid=10217122612445912&set=a.1377261440050)
 
 I am having major issues trying to embed images !!! 
 
