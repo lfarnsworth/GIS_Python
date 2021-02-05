@@ -7,8 +7,8 @@
 
 ## *A little About Me*
 
-<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=_DPrDkUrnAwAX870ScY&_nc_ht=scontent-bos3-1.xx&oh=daf3fff9884ec028fcf9f64efba241f8&oe=60419D57" width="200" height="200" />)
-###### This photo is much too big, need to figure out how to make is **smaller**.
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=_DPrDkUrnAwAX870ScY&_nc_ht=scontent-bos3-1.xx&oh=daf3fff9884ec028fcf9f64efba241f8&oe=60419D57" width="200" height="200" />
+###### Trip to Ireland,2019.
 
 * My name is Lauren Farnsworth, I'm in my second year of the Marine Affairs :ocean: Masters Program. 
 * I'm currently working on a thesis project that has a lot to do with Rhode Island boaters' :toilet: habits.
@@ -17,7 +17,8 @@
 * I grew up in Bristol, RI and now live in New Haven, CT.
 * My undergraduate degree is in Environmental Science from Northeastern Univesity in Boston.
 * Prior to starting school at URI I worked as a science educator with Save the Bay. We took students of all ages from all backgrounds onto our boats to learn about Narragansett Bay.
-![MV Alletta Morris, Save the Bay's Education Vessel](https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/12743721_10205770700015196_796221561630944052_n.jpg?_nc_cat=104&ccb=2&_nc_sid=a9b1d2&_nc_ohc=UAkfOWtQUg4AX-RWFC6&_nc_oc=AQlxh983cDoVw0yz9JmJzHnWfCZ-WhWBQ3pXHvpnrXqN8xojhRaeBgY769V21QE73V10RMLjwvP1dK2DHLqCKP-q&_nc_ht=scontent-bos3-1.xx&oh=5e34b15e4ae27acdeb56ebfba89dbaf1&oe=60439284)
+
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/12743721_10205770700015196_796221561630944052_n.jpg?_nc_cat=104&ccb=2&_nc_sid=a9b1d2&_nc_ohc=UAkfOWtQUg4AX-RWFC6&_nc_oc=AQlxh983cDoVw0yz9JmJzHnWfCZ-WhWBQ3pXHvpnrXqN8xojhRaeBgY769V21QE73V10RMLjwvP1dK2DHLqCKP-q&_nc_ht=scontent-bos3-1.xx&oh=5e34b15e4ae27acdeb56ebfba89dbaf1&oe=60439284" width="200" height ="200" />
 ###### Our boat was in the water year-round. In the winter we gave seal and lighthouse tours. It was very very cold. :snowflake: 
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## *Fun Stuff* 
