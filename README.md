@@ -39,9 +39,11 @@
 ###### This used to be my backyard view when I rented a tiny attic apartment in Newport. I miss it!
 _______________________________________________________________________________________________________
 ## Contact Information:
-[email](laurenfarnsworth9@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/lauren-farnsworth-072b8530/)
-[URI MAF Student Profile](https://web.uri.edu/maf/2021/02/03/lauren-farnsworth/)
+* [Email](laurenfarnsworth9@gmail.com)
+
+* [LinkedIn](https://www.linkedin.com/in/lauren-farnsworth-072b8530/)
+
+* [URI MAF Student Profile](https://web.uri.edu/maf/2021/02/03/lauren-farnsworth/)
 
 
 * I'm super excited to learn about coding in Python with @marecotec . 
