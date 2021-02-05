@@ -5,6 +5,7 @@
 **Coding Challenge 1**
 
 *A little About Me*
+<https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=_DPrDkUrnAwAX870ScY&_nc_ht=scontent-bos3-1.xx&oh=daf3fff9884ec028fcf9f64efba241f8&oe=60419D57>
 
 * My name is Lauren Farnsworth, I'm in my second year of the Marine Affairs Masters Program. 
 * I'm currently working on a thesis project that has a lot to do with Rhode Island boaters' toilet habits.
