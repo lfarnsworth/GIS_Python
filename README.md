@@ -8,8 +8,8 @@
 ## *A little About Me*
 <p align="center">
 <img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=_DPrDkUrnAwAX870ScY&_nc_ht=scontent-bos3-1.xx&oh=daf3fff9884ec028fcf9f64efba241f8&oe=60419D57" width="200" height="200" />
-  <p align="center">
-Trip to Ireland, 2019.
+  <p align="center">  
+_Trip to Ireland, 2019._
 
 * My name is Lauren Farnsworth, I'm in my second year of the Marine Affairs :ocean: Masters Program. 
 * I'm currently working on a thesis project that has a lot to do with Rhode Island boaters' :toilet: habits.
@@ -22,7 +22,9 @@ Trip to Ireland, 2019.
 <img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/12743721_10205770700015196_796221561630944052_n.jpg?_nc_cat=104&ccb=2&_nc_sid=a9b1d2&_nc_ohc=UAkfOWtQUg4AX-RWFC6&_nc_oc=AQlxh983cDoVw0yz9JmJzHnWfCZ-WhWBQ3pXHvpnrXqN8xojhRaeBgY769V21QE73V10RMLjwvP1dK2DHLqCKP-q&_nc_ht=scontent-bos3-1.xx&oh=5e34b15e4ae27acdeb56ebfba89dbaf1&oe=60439284" width="200" height ="200" />
   <p align="center">
 Our boat was in the water year-round. In the winter we gave seal and lighthouse tours. It was very very cold. :snowflake: 
-----------------------------------------------------------------------------------------------------------------------------------------
+    
+__________________________________________________________________________________________________________________________________
+    
 ## *Fun Stuff* 
 
 * I have a super cute dog :dog: . Her name is Olga, and she is afraid of everything.
@@ -41,6 +43,7 @@ Photo from Jackson Hole, WY
   <p align="center">
 This used to be my backyard view when I rented a tiny attic apartment in Newport. I miss it!
 _______________________________________________________________________________________________________
+    
 ## Contact Information:
 * [Email](laurenfarnsworth9@gmail.com)
 
