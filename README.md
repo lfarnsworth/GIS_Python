@@ -19,7 +19,7 @@
 
 Prior to starting school at URI I worked as a science educator with Save the Bay. We took students of all ages from all backgrounds onto our boats to learn about Narragansett Bay.
 ![MV Alletta Morris, Save the Bay Education Vessel]
-<a href="https://drive.google.com/uc?export=view&id=<GNwx3soaGRLjqcx37>"><img src="https://drive.google.com/uc?export=view&id=<GNwx3soaGRLjqcx37>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=GNwx3soaGRLjqcx37"><img src="https://drive.google.com/uc?export=view&id=GNwx3soaGRLjqcx37" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
   
 I'm super excited to learn about coding in Python with @marecotec . 
