@@ -8,7 +8,7 @@
 ## *A little About Me*
 
 <img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=_DPrDkUrnAwAX870ScY&_nc_ht=scontent-bos3-1.xx&oh=daf3fff9884ec028fcf9f64efba241f8&oe=60419D57" width="200" height="200" />
-###### Trip to Ireland,2019.
+###### Trip to Ireland, 2019.
 
 * My name is Lauren Farnsworth, I'm in my second year of the Marine Affairs :ocean: Masters Program. 
 * I'm currently working on a thesis project that has a lot to do with Rhode Island boaters' :toilet: habits.
@@ -24,13 +24,13 @@
 ## *Fun Stuff* 
 
 * I have a super cute dog :dog: . Her name is Olga, and she is afraid of everything.
-![Pic_Of_Olga](https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/72124833_10215782321739482_2277936734085840896_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=bAHdbNZ_AowAX_j9Ua_&_nc_ht=scontent-bos3-1.xx&oh=7c54416b51c11f7833138b9d2cf189d8&oe=60439190)
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/72124833_10215782321739482_2277936734085840896_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=bAHdbNZ_AowAX_j9Ua_&_nc_ht=scontent-bos3-1.xx&oh=7c54416b51c11f7833138b9d2cf189d8&oe=60439190" width="200" height="200" /> 
 ###### Very Happy Pup
 
 #### I **love** skiing, but haven't been this year because of COVID-19 restrictions.
-![so_much_snow_in_Jackson_Hole](https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/52905296_10214148849023685_1026937405006938112_o.jpg?_nc_cat=102&ccb=2&_nc_sid=84a396&_nc_ohc=Y43x18-5AuUAX9_kJWC&_nc_ht=scontent-bos3-1.xx&oh=f5574e9d9a85247d3cfc88b358b01768&oe=6042D924)
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/52905296_10214148849023685_1026937405006938112_o.jpg?_nc_cat=102&ccb=2&_nc_sid=84a396&_nc_ohc=Y43x18-5AuUAX9_kJWC&_nc_ht=scontent-bos3-1.xx&oh=f5574e9d9a85247d3cfc88b358b01768&oe=6042D924" width="200" height="200" />
 ###### Photo from Jackson Hole, WY
-![sunset](https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/69527869_10215500572575929_2785012465816043520_n.jpg?_nc_cat=111&ccb=2&_nc_sid=19026a&_nc_ohc=SPqsFRaNEacAX9bcrDP&_nc_ht=scontent-bos3-1.xx&oh=7f7320fcf376c350b56e38c672e35143&oe=6042D2FB)
+img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/69527869_10215500572575929_2785012465816043520_n.jpg?_nc_cat=111&ccb=2&_nc_sid=19026a&_nc_ohc=SPqsFRaNEacAX9bcrDP&_nc_ht=scontent-bos3-1.xx&oh=7f7320fcf376c350b56e38c672e35143&oe=6042D2FB" width="200" height="200" /> 
 ###### This used to be my backyard view when I rented a tiny attic apartment in Newport. I miss it!
 
 
