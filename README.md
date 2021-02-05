@@ -2,10 +2,9 @@
 ## NRS528_Coding Challenges
 
 
-**Coding Challenge 1**
+### **Coding Challenge 1**
 
 *A little About Me*
-<https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=_DPrDkUrnAwAX870ScY&_nc_ht=scontent-bos3-1.xx&oh=daf3fff9884ec028fcf9f64efba241f8&oe=60419D57>
 
 * My name is Lauren Farnsworth, I'm in my second year of the Marine Affairs Masters Program. 
 * I'm currently working on a thesis project that has a lot to do with Rhode Island boaters' toilet habits.
@@ -15,14 +14,12 @@
 * My undergraduate degree is in Environmental Science from Northeastern Univesity, in Massachusetts.
 * I _really_ **love** sushi and I hope I can get some tonight!
 * I have a super cute dog. Her name is Olga, and she is afraid of everything.
+
 ![Image of Olga]
+(https://www.facebook.com/photo/?fbid=10217122612445912&set=a.1377261440050)
 
 
 Prior to starting school at URI I worked as a science educator with Save the Bay. We took students of all ages from all backgrounds onto our boats to learn about Narragansett Bay.
-![MV Alletta Morris, Save the Bay Education Vessel]
 
-<a href="https://drive.google.com/uc?export=view&id=XXX"><img src="https://drive.google.com/uc?export=view&id=GNwx3soaGRLjqcx37" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-  
-  
 I'm super excited to learn about coding in Python with @marecotec . 
