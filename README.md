@@ -7,7 +7,7 @@
 
 *A little About Me*
 
-![It Me](https://www.facebook.com/photo/?fbid=10217122612445912&set=a.1377261440050)
+![It Me](https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=_DPrDkUrnAwAX870ScY&_nc_ht=scontent-bos3-1.xx&oh=daf3fff9884ec028fcf9f64efba241f8&oe=60419D57)
 
 * My name is Lauren Farnsworth, I'm in my second year of the Marine Affairs :ocean: Masters Program. 
 * I'm currently working on a thesis project that has a lot to do with Rhode Island boaters' toilet habits :poop: .
@@ -20,9 +20,11 @@
 ----------------------------------------------------------------------------
 
 
-I am having major issues trying to embed images !!! 
+###### I am having major issues trying to embed images !!! 
 
 Prior to starting school at URI I worked as a science educator with Save the Bay. We took students of all ages from all backgrounds onto our boats to learn about Narragansett Bay.
+
+![MV Alletta Morris, Save the Bay's Education Vessel](
 
 
 I'm super excited to learn about coding in Python with @marecotec . 
