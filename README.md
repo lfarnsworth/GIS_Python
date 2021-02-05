@@ -13,11 +13,12 @@
 * I grew up in Bristol, RI and now live in New Haven, CT.
 * My undergraduate degree is in Environmental Science from Northeastern Univesity, in Massachusetts.
 * I _really_ **love** sushi and I hope I can get some tonight!
-* I have a super cute dog. Her name is Olga, and she is afraid of everything.
+* I have a super cute dog :dog: . Her name is Olga, and she is afraid of everything.
 
 ![Image of Olga]
 (https://www.facebook.com/photo/?fbid=10217122612445912&set=a.1377261440050)
 
+I am having major issues trying to embed images !!! 
 
 Prior to starting school at URI I worked as a science educator with Save the Bay. We took students of all ages from all backgrounds onto our boats to learn about Narragansett Bay.
 
