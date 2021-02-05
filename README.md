@@ -17,7 +17,7 @@ Trip to Ireland, 2019.
 * I am looking at how RI boaters perceive the No Discharge Zone policy, which essentially makes it _**illegal**_ for them to dump their raw sewage :poop: into the Bay.
 * I grew up in Bristol, RI and now live in New Haven, CT.
 * My undergraduate degree is in Environmental Science from Northeastern Univesity in Boston.
-* Prior to starting school at URI I worked as a science educator with Save the Bay. We took students of all ages and from all backgrounds onto our boats to learn about Narragansett Bay. While in this role, I got my captain license :anchor: and started driving the boat. 
+* Prior to starting school at URI I worked as a science educator with Save the Bay. We took students of all ages and from all backgrounds onto our boats to learn about Narragansett Bay. While in this role, I earned my captain license :anchor: and started driving the boat. 
 <p align="center">
 <img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/12743721_10205770700015196_796221561630944052_n.jpg?_nc_cat=104&ccb=2&_nc_sid=a9b1d2&_nc_ohc=UAkfOWtQUg4AX-RWFC6&_nc_oc=AQlxh983cDoVw0yz9JmJzHnWfCZ-WhWBQ3pXHvpnrXqN8xojhRaeBgY769V21QE73V10RMLjwvP1dK2DHLqCKP-q&_nc_ht=scontent-bos3-1.xx&oh=5e34b15e4ae27acdeb56ebfba89dbaf1&oe=60439284" width="200" height ="200" />
   <p align="center">
