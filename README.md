@@ -46,4 +46,4 @@ ________________________________________________________________________________
 * [URI MAF Student Profile](https://web.uri.edu/maf/2021/02/03/lauren-farnsworth/)
 
 
-* I'm super excited to learn about coding in Python with @marecotec . 
+##I'm super excited to learn about coding in Python with @marecotec!  
