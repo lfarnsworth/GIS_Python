@@ -14,10 +14,10 @@ print('\r\n')
 
 list_a = ['dog', 'cat', 'rabbit', 'hamster', 'gerbil']
 list_b = ['dog', 'hamster', 'snake']
-def intersection(list_a, list_b):
+def exclusion(list_a, list_b):
     list_c =[str for str in list_a if not str in list_b]
     list_c.extend([str for str in list_b if not str in list_a])
     return list_c
 print('These are NOT in common:')
-print(intersection(list_a, list_b))
+print(exclusion(list_a, list_b))
 print('\r\n')
