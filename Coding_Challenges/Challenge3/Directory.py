@@ -43,3 +43,7 @@ def delete_recursively(func_path):
     return 0
 # call the function
 delete_recursively(path)
+
+
+# Feedback - Good work, quite verbose with all the mkdir but worked fine. I do suggest using a standard file naming
+# convention for your files, Task_1.py for example to make it easier.

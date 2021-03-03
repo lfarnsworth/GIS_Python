@@ -28,3 +28,6 @@ for letter in word_str:
             # Add score to the running tally
             calculated_score = calculated_score + this_letters_score
 print("Your score is: " + str(calculated_score))
+
+# Feedback - The way you coded this succesfully avoided my intended failures - i.e. if I add in a space to my input
+# most times it causes a keyerror (not in dictionary basically). You save this by the for loop/if in, exceptional.

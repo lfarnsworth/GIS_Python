@@ -27,4 +27,10 @@ unique_string_list = unique(List_string)
 # step through uniques, count them in original string and print result
 for item in unique_string_list:
     item_word_count = List_string.count(item)
-    print(item + ': ' + str(item_word_count) + ' count(s)')
+    if item_word_count > 1:
+        print(item + ': ' + str(item_word_count) + ' counts')
+    else:
+        print(item + ': ' + str(item_word_count) + ' count')
+
+# Feedback - Good jhob, looks a bit neater than previous challenges, I made one tweak to help with the (s) print.
+# if there are things that you don't need any more, clean up your code by deleting out the commented out parts.
