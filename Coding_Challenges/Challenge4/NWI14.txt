@@ -1,0 +1,282 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Fish and Wildlife Service
+      Publication_Date: 201405
+      Title: National Wetlands Inventory (NWI) for Rhode Island; NWI14
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: Classification of Wetlands and Deepwater Habitats of the United States.  U.S. Department of the Interior, Fish and Wildlife Service, Washington, DC.  FWS/OBS-79/31.
+      Publication_Information:
+        Publication_Place: Washington, D.C.
+        Publisher: U.S. Fish and Wildlife Service, Division of Habitat and Resouce Conservation
+      Other_Citation_Details: Suggested bibliographic reference: RIGIS, 2014. National Wetland Inventory (NWI) for Rhode Island; NWI14. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 18 February 2015).
+      Online_Linkage: http://www.fws.gov/wetlands/
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Rhode Island Geographic Information System (RIGIS)
+          Publication_Date: 1993
+          Title: Rhode Island Geographic Information System (RIGIS) Data Distribution System
+          Online_Linkage: http://www.rigis.org
+  Description:
+    Abstract:
+      This data set represents the extent, approximate location and type of wetlands and deepwater habitats in Rhode Island.  These data delineate the areal extent of wetlands and surface waters as defined by Cowardin et al. (1979).  
+      Certain wetland habitats are excluded from the National mapping program because of the limitations of aerial imagery as the primary data source used to detect wetlands.  These habitats include seagrasses or submerged aquatic vegetation that are found in the intertidal and subtidal zones of estuaries and near shore coastal waters.  Some deepwater reef communities (coral or tuberficid worm reefs) have also been excluded from the inventory.  These habitats, because of their depth, go undetected by aerial imagery.     
+      By policy, the Service also excludes certain types of "farmed wetlands" as may be defined by the Food Security Act or that do not coincide with the Cowardin et al. definition.  Contact the Service's Regional Wetland Coordinator for additional information on what types of farmed wetlands are included on wetland maps.
+    Purpose: The present goal of the Service is to provide the citizens of the United States and its Trust Territories with current geospatially referenced information on the status, extent, characteristics and functions of wetlands, riparian, deepwater and related aquatic habitats in priority areas to promote the understanding and conservation of these resources.
+    Supplemental_Information:
+      The wetland maps were produced as topical overlays using U.S. Geological Survey topographic maps as the base.  The hard copy product is a composite map showing topographic and planimetric features from the USGS map base and wetlands and deepwater habitats from the Service's topical overlay.  Thus, the data are intended for use in publications, at a scale of 1:24,000 or smaller. Due to the scale, the primary intended use is for regional and watershed data display and analysis, rather than specific project data analysis.  The map products were neither designed or intended to represent legal or regulatory products.
+      Questions or comments regarding the interpretation or classification of wetlands or deepwater habitats can be addressed by visiting http://www.fws.gov/wetlands/FAQs.html
+      These data were developed in conjunction with the publication Cowardin, L.M., V. Carter, F.C. Golet, and E.T. LaRoe.  1979.  Classification of Wetlands and Deepwater Habitats of the United States.  U.S. Department of the Interior, Fish and Wildlife Service, Washington, DC.  FWS/OBS-79/31.  Alpha-numeric map codes have been developed to correspond to the wetland and deepwater classifications described.
+      These spatial data are not designed to stand alone.  They form topical overlays to the U.S. Geological Survey 1:24,000 or 1:25,000 scale topographic quadrangles.  Note that coastline delineations were drawn to follow the extent of wetland or deepwater features as described by this project and may not match the coastline shown in other base maps.
+      Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+      Although this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in Arc/INFO format, this metadata file may include some Arc/INFO-specific terminology.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1977
+        Ending_Date: 201405
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Ongoing
+    Maintenance_and_Update_Frequency: In Continuous Increments
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -71.896602
+      East_Bounding_Coordinate: -71.117442
+      North_Bounding_Coordinate: 42.018935
+      South_Bounding_Coordinate: 41.145927
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Categories
+      Theme_Keyword: biota
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: Wetlands
+      Theme_Keyword: Deepwater habitats
+      Theme_Keyword: Hydrography
+      Theme_Keyword: Surface water
+      Theme_Keyword: Swamps, marshes, bogs, fens
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Conterminous United States
+      Place_Keyword: United States
+      Place_Keyword: Rhode Island
+      Place_Keyword: New England
+  Access_Constraints: None
+  Use_Constraints:
+    The producer makes no warranty, express or implied, related to the accuracy, reliability, completeness or currentness of these data or their suitability for any particular purpose or use. Private land depicted representative of invasive plant species on a particular property does not indicate public access to that site.
+    Acknowledgement of the U.S. Fish and Wildlife Service and (or) the National Wetlands Inventory would be appreciated in products derived from these data.
+    This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+    Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products.  Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Fish and Wildlife Service
+      Contact_Position: Wetlands Database Administrator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 505 Science Drive
+        City: Madison
+        State_or_Province: WI
+        Postal_Code: 53711
+        Country: USA
+      Contact_Voice_Telephone: 608-238-9333
+      Contact_Facsimile_Telephone: 608-238-9334
+      Contact_Electronic_Mail_Address: wetlands_team@fws.gov
+  Data_Set_Credit: U.S. Fish and Wildlife Service responsible for creation of the original dataset and metadata that were used as the basis for this state-specific dataset.
+  Cross_Reference:
+    Citation_Information:
+      Originator: U.S. Fish and Wildlife Serivce, National Wetlands Inventory
+      Publication_Date: Various
+      Title: Wetlands and Deepwater Habitats of the Conterminous United States
+      Edition: Version 1.0
+      Publication_Information:
+        Publication_Place: Washington, D.C., USA
+        Publisher: U.S. Fish and Wildlife Service
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: The source data was checked using standard review procedures. Attributes were checked by using visual inspection as well as automated verification routines.  Quality of the attribute information varies with age and mapping protocols used when individual maps were prepared.
+    Quantitative_Attribute_Accuracy_Assessment:
+      Attribute_Accuracy_Value: All polygons are attributed.
+  Logical_Consistency_Report: Polygon and chain-node topology are present. Every polygon has a label.
+  Completeness_Report:
+    This data set represents the extent of wetlands and deepwater habitats that can be determined with the use of remotely sensed data and within the timeframe for which the maps were produced. Wetlands are shown in all of the conterminous 48 states and the District of Columbia.  The accuracy of image interpretation depends on the quality of the imagery, the experience of the image analysts, the amount and quality of the collateral data, and the amount of ground truth verification work conducted.  
+    There is a margin error inherent in the use of imagery, thus detailed on-the-ground inspection of any particular site, may result in revision of the wetland boundaries or classification, established through image analysis.
+    Wetlands or other mapped features may have changed since the date or the imagery and/or field work.  There may be occasional differences in polygon boundaries or classifications between the information depicted on the map and the actual conditions on site.
+    All data represented in this specific dataset are contained within the borders of Rhode Island, however the above still applies.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Fish and Wildlife Service
+          Publication_Date: 20101001
+          Title: Wetlands and Deepwater Habitats of the Conterminous United States
+          Series_Information:
+            Series_Name: National Wetlands Inventory Maps
+          Publication_Information:
+            Publication_Place: Washington, D.C.
+            Publisher: U.S. Fish and Wildlife Service
+      Source_Scale_Denominator: 1:24,000 and 1:25,000
+      Type_of_Source_Media: Digital file and hard copy paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1977
+            Ending_Date: present
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: NWI
+      Source_Contribution: Spatial information
+    Process_Step:
+      Process_Description:
+        Original stable base hard copy maps of wetland and deepwater habitats were created based on USGS state and quadrangle boundaries.  These maps were converted to digital files using various software packages (WAMS, ARC and others).  The digital files were stored as ESRI Import/Export files corresponding to a single 1:24,000 USGS quadrangle.  These digital files were imported and converted to ESRI Coverage format and checked for topological and attribute errors.  All coverages were converted from a UTM map projection to an Alber's Equal Area map projection and the horizontal datum was converted from NAD27 to NAD83 were necessary.  Polygons attributed as "Uplands" were removed from the dataset and polygons were merged at quadrangle boundaries where the quadrangle line divided polygons with the same attribute.  The data was loaded into a seamless SDE geodatabase for the conterminous United States.  These steps were conducted using both Arc Macro Language (AML) and ArcMap editing tools.  All point data from the original ESRI Coverages were buffered by 11.28 meters (1/10 of an acre) and incorporated into this polygon feature class.  Linear features from the original ESRI Coverages were merged at quadrangle boundaries where the quadrangle line divided lines with the same attribute.  Linear data is stored in a separate feature class.
+        Further data improvements included the conversion of all old wetland codes that contained 'OW' to the new code containing 'UB'.  All polygons labeled as 'OUT', 'No Data' and 'NP' were removed from the database.
+      Source_Used_Citation_Abbreviation: NWI
+    Process_Step:
+      Process_Description: Data for Rhode Island downloaded from http://www.fws.gov/wetlands/Data/State-Downloads.html. The shapefile for CONUS_wet_poly was reprojected from the Albers Equal Area projection to the Rhode Island State Plane Feet coordinate system. The data were then clipped to the Rhode Island state boundary (found on http://www.edc.uri.edu/rigis) to exclude all wetland data occuring outside the state of Rhode Island.  Original metadata record updated with this process step, citation information, and RIGIS distribution information.
+      Source_Used_Citation_Abbreviation: CONUS_wet_poly.shp
+      Process_Date: 20140907
+      Source_Produced_Citation_Abbreviation: NWI10
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: University of Rhode Island Environmental Data Center
+            Contact_Person: Erica Tefft
+          Contact_Position: Research Associate
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 1 Greenhouse Road
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+          Contact_Voice_Telephone: 401-874-5054
+          Contact_Electronic_Mail_Address: erica_tefft@mail.uri.edu
+          Contact_Instructions: Email preferred.
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: polygons
+      Point_and_Vector_Object_Count: 18749
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: NAD 1983 StatePlane Rhode Island FIPS 3800 Feet
+        Transverse_Mercator:
+          Scale_Factor_at_Central_Meridian: 0.99999375
+          Longitude_of_Central_Meridian: -71.5
+          Latitude_of_Projection_Origin: 41.08333333333334
+          False_Easting: 328083.3333333333
+          False_Northing: 0.0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000000007286382608384659
+          Ordinate_Resolution: 0.000000007286382608384659
+        Planar_Distance_Units: foot_us
+    Geodetic_Model:
+      Horizontal_Datum_Name: D North American 1983
+      Ellipsoid_Name: GRS 1980
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257222101
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: NWI10
+      Entity_Type_Definition: Reference: Cowardin et al. 1979 -- subset of complete NWI dataset. Specific to Rhode Island.
+      Entity_Type_Definition_Source: U.S. Fish and Wildlife Service
+    Attribute:
+      Attribute_Label: OBJECTID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: SHAPE
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: ATTRIBUTE
+      Attribute_Definition: Alphanumeric code identifying the wetland classification of the polygon.
+      Attribute_Definition_Source: http://www.fws.gov/wetlands/Data/wetlandcodes.html
+    Attribute:
+      Attribute_Label: WETLAND_TY
+      Attribute_Definition: Wetland type.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Estuarine and Marine Deepwater
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Estuarine and Marine Wetland
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Freshwater and Emergent Wetland
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Freshwater Forest/Shrub Wetland
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Freshwater Pond
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Lake
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Other
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Riverine
+    Attribute:
+      Attribute_Label: ACRES
+      Attribute_Definition: Area of the polygon in acres.
+      Attribute_Definition_Source: Calculated in an Rhode Island State Plan feet projection using ESRI's geometry calculator for Acres.
+    Attribute:
+      Attribute_Label: SHAPE_Leng
+    Attribute:
+      Attribute_Label: SHAPE_Area
+      Attribute_Definition: Area of feature in internal units squared.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Positive real numbers that are automatically generated.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Erica Tefft
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-5054
+      Contact_Electronic_Mail_Address: erica@edc.uri.edu
+      Contact_Instructions: email preferred
+  Distribution_Liability: This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Esri shapefile
+        File_Decompression_Technique: ZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.rigis.org
+    Fees: No fee for downloading directly from the RIGIS Data Distribution System located at http://www.edc.uri.edu/rigis.
+Metadata_Reference_Information:
+  Metadata_Date: 20101001
+  Metadata_Review_Date: 20150218
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Fish and Wildlife Service
+      Contact_Position: Wetlands Database Administrator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 505 Science Drive
+        City: Madison
+        State_or_Province: WI
+        Postal_Code: 53711
+        Country: USA
+      Contact_Voice_Telephone: 608-238-9333
+      Contact_Facsimile_Telephone: 608-238-9334
+      Contact_Electronic_Mail_Address: wetlands_team@fws.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
