@@ -1,5 +1,3 @@
-# GIS_Python
-NRS528_Coding Challenges
 # GIS Python
 ## NRS528_Coding Challenges
 ---------------------------
