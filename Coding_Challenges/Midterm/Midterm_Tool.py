@@ -16,11 +16,11 @@
 # Depth of processing operation (10 points)
 # In addition, you must provide example data and
 # minimize the amount of editing a user must make in order for the program to run (10 points).
-
+---------------------------------------------------------------------------------------------------------
 # This script uses three datasets: Coastal waters, Sewage Outflow, & Public Access Locations
-# creates a 1 km buffer around al public access points that are within 500 feet of a sewage outflow site.
+# creates a 1 km buffer around all public access points that are within 500 feet of a sewage outflow site.
 # This is useful for people attempting to avoid swimming near raw sewage
-# We intend to output the intersections for each effected town
+# A Tiff file will be generated of each affected town.
 # Possible use for this would be a local newspaper, community website, or mobile app based on GPS
 
 """
