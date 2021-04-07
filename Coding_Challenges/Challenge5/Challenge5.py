@@ -27,7 +27,7 @@ import csv
 import os
 arcpy.env.overwriteOutput = True
 # Set your workspace to the directory where you are storing your files
-arcpy.env.workspace = "C:\\PYthon_Class\\Coding_Challenges\\Coding_Challenge5\\workspace"
+arcpy.env.workspace = r"C:\Data\Students_2021\Farnsworth\Coding_Challenges\Challenge5\workspace"
 file_name = "Mystic_Stranded_Species_ANSI.csv"
 
 # create empty list to populate with the csv file:

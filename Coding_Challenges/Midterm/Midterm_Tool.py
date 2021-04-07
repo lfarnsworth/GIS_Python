@@ -40,18 +40,19 @@ The script outputs a CSV file of all the affected public access points that are 
 
 
 import arcpy
+import os
 arcpy.env.overwriteOutput = True
 
 # Modify below to fit your environment:
-base_folder = r"C:\PYthon_Class\Midterm_Tool_for_Submission\\"
-arcpy.env.workspace = base_folder + "Workspace"
+base_folder = r"C:\Data\Students_2021\Farnsworth\Coding_Challenges\Midterm"
+arcpy.env.workspace = base_folder + "Data"
 
 # Process #1
 # Select all waste sites within 500 feet of a public shoreline access point
 Shoreline_Selection = arcpy.management.SelectLayerByLocation(
-    in_layer = base_folder + r"Data\RIPDES_Sanitary_Waste_Sites.shp",
+    in_layer = os.path.join(base_folder, r"Data", "RIPDES_Sanitary_Waste_Sites.shp"),
     overlap_type = "INTERSECT",
-    select_features = base_folder + r"Data\Public_Shoreline_Access.shp",
+    select_features = os.path.join(base_folder, r"Data", "Public_Shoreline_Access.shp"),
     search_distance = "500 Feet",
     selection_type = "NEW_SELECTION",
     invert_spatial_relationship = "NOT_INVERT"
@@ -59,7 +60,7 @@ Shoreline_Selection = arcpy.management.SelectLayerByLocation(
 
 # Process #2
 # 1 km buffer around the above selected waste sites.
-No_Swim_Areas_Shapefile = "No_Swim.shp"
+No_Swim_Areas_Shapefile = os.path.join(base_folder, "Data", "No_Swim.shp")
 Polluted_Shoreline_Buffer = arcpy.analysis.Buffer(
     in_features = Shoreline_Selection,
     out_feature_class = No_Swim_Areas_Shapefile,

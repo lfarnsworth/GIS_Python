@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <origin/>
+                <origin/>
+                <origin/>
+                <pubdate>20030630</pubdate>
+                <title>Public Shoreline Access</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>RIGIS</publish>
+                </pubinfo>
+                <othercit>Suggested bibliographic reference: RIGIS, 2003. Public Shoreline Access; shorepts. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 7 October 2014).</othercit>
+                <onlink>http://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/Public_Shoreline_Access/FeatureServer</onlink>
+                <onlink>http://data.rigis.org/PLAN/shorepts.zip</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Public access points to the shoreline of Narragansett Bay and Rhode Island coastal waters to parks, beaches, refuge areas, boat ramps, marinas and other areas open to the pubic managed by federal, state, and municipal government, private organizations with interests in land preservation and protection, and rights-of-way that have been designated by the RI Coastal Resource Management Council 
+Automation of public access points to shore areas into a GIS file format for inventory and mapping .</abstract>
+            <purpose>Public access points to the shoreline of Narragansett Bay and Rhode Island coastal waters.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20030630</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>publication date</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-71.875786</westbc>
+                <eastbc>-71.136331</eastbc>
+                <northbc>41.877916</northbc>
+                <southbc>41.14892</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>rights-of-way</themekey>
+                <themekey>scenic vistas</themekey>
+                <themekey>wildlife viewing</themekey>
+                <themekey>conservation areas</themekey>
+                <themekey>public access</themekey>
+                <themekey>public parks</themekey>
+                <themekey>boat ramps</themekey>
+                <themekey>pathways</themekey>
+                <themekey>beaches</themekey>
+                <themekey>fishing sites</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+                <themekey>planningCadastre</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>Rhode Island</placekey>
+                <placekey>United State</placekey>
+                <placekey>New England</placekey>
+                <placekey>Northeast</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>These data are shared under the RIGIS license agreement, which can be viewed below: This
+ dataset is provided 'as is.’ The producer(s) of this dataset, 
+contributors to this dataset, the Rhode Island Geographic Information 
+System (RIGIS) consortium, the State of Rhode Island, and the University
+ of Rhode Island do not make any warranties of any kind for this 
+dataset, and are not liable for any loss or damage however and whenever 
+caused by any use of this dataset.Please acknowledge both RIGIS 
+and the primary producer(s) of this dataset in any derived products.  
+Versions of the RIGIS logo suitable for both printed and web-based 
+products are available at http://www.rigis.org/logos.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Rhode Island Coastal Resources Management Council</cntorg>
+                    <cntper>Janet Freedman</cntper>
+                </cntorgp>
+                <cntpos>Coastal Geologist</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>4808 Tower Hill Road</address>
+                    <address>Stedman Government Center, Suite 116</address>
+                    <city>Wakefield</city>
+                    <state>RI</state>
+                    <postal>02879-1900</postal>
+                </cntaddr>
+                <cntvoice>401-783-3370</cntvoice>
+                <cntemail>jfreedman@crmc.ri.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>URI EDC, RIGIS; RI Coastal Resources Management Council; RI Dept. of Environmental Management; University of Rhode Island Coastal Resources Center. Icon Credit: Luis Prado via The Noun Project</datacred>
+        <secinfo>
+            <secsys>not classified</secsys>
+        </secinfo>
+        <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.1.5686</native>
+        <crossref>
+            <citeinfo>
+                <pubdate>20030630</pubdate>
+                <title>Public Access to the Rhode Island Coast</title>
+            </citeinfo>
+        </crossref>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>Attribute information obtained directly from source publication. Verified by field checks</attraccr>
+        </attracc>
+        <logic>Verification through field checks</logic>
+        <complete>Complete to date of publication</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>Cross checked through inspection on 1:5000 scale orthophotography from 1997</horizpar>
+                <qhorizpa>
+                    <horizpav>plus or minus 100 feet</horizpav>
+                    <horizpae>Positions are approximate</horizpae>
+                </qhorizpa>
+            </horizpa>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srcscale>5000</srcscale>
+                <typesrc>hardcopyPhoto</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <sngdate>
+                            <caldate>20021201</caldate>
+                        </sngdate>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+            </srcinfo>
+            <procstep>
+                <procdesc>Points were "heads up" digitized over orthophots with RIGIS E911 roads as an additional locational aid. Point locations may be centers of parking lots or major building facilities on site.</procdesc>
+                <procdate>20030228</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>URI-CRC</cntorg>
+                            <cntper>Alan Desbonnet</cntper>
+                        </cntorgp>
+                        <cntpos>Research Associate</cntpos>
+                        <cntvoice>401-874-9343</cntvoice>
+                        <cntemail>aland@gso.uri.edu</cntemail>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+            <procstep>
+                <procdesc>Updated Point of Contact information for this dataset from "RIGIS Coordinator" to "Janet Freedman."</procdesc>
+                <procdate>20150529</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                            <cntper>Erica Tefft</cntper>
+                        </cntorgp>
+                        <cntpos>Research Associate</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>1 Greenhouse Road</address>
+                            <address>Coastal Institute</address>
+                            <city>Kingston</city>
+                            <state>RI</state>
+                            <postal>02881</postal>
+                        </cntaddr>
+                        <cntvoice>401-874-5054</cntvoice>
+                        <cntemail>erica@edc.uri.edu</cntemail>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>Entity point</sdtstype>
+                <ptvctcnt>330</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>PLAN_Public_Shoreline_Access</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>ID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>BOAT_DOCK</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>FISH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SWIMMING</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SCENERY</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>RIPRAP_BCH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>MARSH_BCH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>STEEP_BCH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ROCK_BCH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>NATURE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PICNICING</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PUB_TRAN</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>HAND_ACC</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SAND_BCH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PIC_TBL</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PUB_PHONE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PATHWAY</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PRIMEUSE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>TOWN1</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>GARB_CAN</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SITENO</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SNACKS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>COBBLE_BCH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>RESTROOM</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>HIKE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>BOAT_RAMP</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>HISTORY</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>NO_CAR</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>HARBOR_BCH</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PARK_SITES</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ENTR_FEE</attrlabl>
+            </attr>
+        </detailed>
+        <overview>
+            <eaover>No attributes definitions are available for this dataset at time of publication.</eaover>
+        </overview>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                    <cntper>Erica Tefft</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>1 Greenhouse Road</address>
+                    <city>Kingston</city>
+                    <state>RI</state>
+                    <postal>02881</postal>
+                </cntaddr>
+                <cntvoice>401-874-5054</cntvoice>
+                <cntemail>erica@edc.uri.edu</cntemail>
+                <cntinst>email preferred</cntinst>
+            </cntinfo>
+        </distrib>
+        <distliab>See access and use constraints information.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Esri shapefile</formname>
+                    <filedec>ZIP</filedec>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://www.rigis.org</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20161115</metd>
+        <metrd>20030826</metrd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>RIGIS-RIDOA RI Sea Grant</cntorg>
+                    <cntper>RIGIS Coordinator RIDOA-Statewide Planning - Alan Desbonnet</cntper>
+                </cntorgp>
+                <cntpos>RIGIS Coordinator Research Associate</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>URI-GSO-Sea Grant</address>
+                    <address>RIDOA One Capitol Hill</address>
+                    <city>Providence</city>
+                    <state>RI</state>
+                    <postal>02908-5872</postal>
+                </cntaddr>
+                <cntvoice>401-222-6483</cntvoice>
+                <cntemail>rigis@admin.ri.gov</cntemail>
+                <hours>M-F 8-4</hours>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+        <metsi>
+            <metscs>None</metscs>
+        </metsi>
+    </metainfo>
+</metadata>

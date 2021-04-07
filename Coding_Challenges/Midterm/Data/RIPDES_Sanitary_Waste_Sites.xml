@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <origin/>
+                <pubdate>20000501</pubdate>
+                <title>RIPDES Sanitary Waste Sites</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>RIGIS</publish>
+                </pubinfo>
+                <othercit>Suggested bibliographic reference: RIGIS, 2000. RIPDES Sanitary Waste Sites; s44xsp99. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 30 September 2014).</othercit>
+                <onlink>http://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/RIPDES_Sanitary_Waste_Sites/FeatureServer</onlink>
+                <onlink>http://data.rigis.org/ENV/ripdes.zip</onlink>
+                <lworkcit>
+                    <citeinfo>
+                        <pubdate>19890101</pubdate>
+                        <title>RIGIS Database</title>
+                    </citeinfo>
+                </lworkcit>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This dataset shows the Rhode Island point discharge elimination system point locations for all sanitary waste sites where permits have been issued by RIDEM.&#13;
+&#13;
+These data were designed for site mapping for the monitoring of water quality.</abstract>
+            <purpose>This dataset shows the Rhode Island point discharge elimination system point locations for all sanitary waste sites where permits have been issued by RIDEM.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>19980101</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>publication date</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-71.83954</westbc>
+                <eastbc>-71.173518</eastbc>
+                <northbc>42.015378</northbc>
+                <southbc>41.167408</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>007</themekey>
+                <themekey>Permits</themekey>
+                <themekey>discharge site</themekey>
+                <themekey>RIPDES</themekey>
+                <themekey>environment</themekey>
+                <themekey>sanitary waste</themekey>
+            </theme>
+            <place>
+                <placekt>GNIS</placekt>
+                <placekey>Rhode Island</placekey>
+                <placekey>United States</placekey>
+                <placekey>northeast</placekey>
+                <placekey>New England</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>These data are shared under the RIGIS license agreement, which can be viewed below: This
+ dataset is provided 'as is.’ The producer(s) of this dataset, 
+contributors to this dataset, the Rhode Island Geographic Information 
+System (RIGIS) consortium, the State of Rhode Island, and the University
+ of Rhode Island do not make any warranties of any kind for this 
+dataset, and are not liable for any loss or damage however and whenever 
+caused by any use of this dataset.Please acknowledge both RIGIS 
+and the primary producer(s) of this dataset in any derived products.  
+Versions of the RIGIS logo suitable for both printed and web-based 
+products are available at http://www.rigis.org/logos.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Rhode Island Department of Environmental Management</cntorg>
+                    <cntper>Paul Jordan</cntper>
+                </cntorgp>
+                <cntpos>Supervising GIS Specialist</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>235 Promenade St</address>
+                    <city>Providence</city>
+                    <state>RI</state>
+                    <postal>02908</postal>
+                </cntaddr>
+                <cntvoice>401-222-2776 x4315</cntvoice>
+                <cntemail>paul.jordan@dem.ri.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <browse>
+            <browsen>http://www.rigis.org/images/metadata/environment/ripdes.gif</browsen>
+            <browset>GIF</browset>
+        </browse>
+        <datacred>URI EDC, RIGIS; RI Dept. of Environmental Management</datacred>
+        <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.1.5686</native>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>RIGIS standards 99 percent on screen verification</attraccr>
+        </attracc>
+        <logic>not to RIGIS standards-fuzzy tolerance 31</logic>
+        <complete>complete arcinfo point coverage</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>This data is accurate to plus or minus 3-5 meters by GPS. on screen verification over USGS 12000 scale DOQS</horizpar>
+            </horizpa>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>19980101</pubdate>
+                        <title>RIPDES</title>
+                    </citeinfo>
+                </srccite>
+                <srcscale>24000</srcscale>
+                <typesrc>None</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <sngdate>
+                            <caldate>19980101</caldate>
+                        </sngdate>
+                    </timeinfo>
+                    <srccurr>ground condition</srccurr>
+                </srctime>
+                <srccitea>RIPDES</srccitea>
+                <srccontr>EPA and RIDEM provided the GPS Points.</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>mapping grade gps receivers were used to locate facilities-gps files were differentially corrected resulting files were used to generate arcinfo cov</procdesc>
+                <procdate>19980101</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Updated Point of Contact information for this dataset from "RIGIS Coordinator" to "Paul Jordan."</procdesc>
+                <procdate>20150529</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                            <cntper>Erica Tefft</cntper>
+                        </cntorgp>
+                        <cntpos>Research Associate</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>1 Greenhouse Road</address>
+                            <address>Coastal Institute</address>
+                            <city>Kingston</city>
+                            <state>RI</state>
+                            <postal>02881</postal>
+                        </cntaddr>
+                        <cntvoice>401-874-5054</cntvoice>
+                        <cntemail>erica@edc.uri.edu</cntemail>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>Entity point</sdtstype>
+                <ptvctcnt>143</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>ENV_RIPDES_Sanitary_Waste_Sites</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>ADDRESS</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>TOWN</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>DATUM</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SAN__TYPE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LATITUDE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ACCURACY</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SRC_SCALE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>VERTICAL</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LATLON_SOURCE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>DESCRIPTION</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>METHOD</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>DEMID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>PLA</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>LONGITUDE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SANITARY</attrlabl>
+            </attr>
+        </detailed>
+        <overview>
+            <eaover>Attribute coding file RIDES.REF DEMID: RIPDES Permit Number METHOD: Data Collection Method (From USEPA MAD v.6.1) ACCURACY: Locational Accuracy (From USEPA MAD v.6.1) DESCRIPTION: Feature Description (From USEPA MAD v.6.1) VERTICAL: Vertical Measure (From USEPA MAD v.6.1) DATUM: Horizontal Datum (From USEPA MAD v.6.1) SRC_SCALE: Scale of Lat/Lon Source (From USEPA MAD v.6.1) PLA: Point-Line-Area (From USEPA MAD v.6.1) LATLON-SOURCE: Agency Collecting Locational Information (From USEPA MAD v.6.1) NAME: Facility Name ADDRESS: Facility Address TOWN: Facility Town LATITUDE: Point Lat in decimal degrees (From USEPA MAD v.6.1) LONGITUDE: Point Lon in decimal degrees (From USEPA MAD v.6.1) SANITARY: Identifies Sanitary Waste Water Discharges SAN._TYPE: Identifies Major/Minor Sanitary Discharges</eaover>
+            <eadetcit>RIDEM RIPDES</eadetcit>
+        </overview>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                    <cntper>Erica Tefft</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>1 Greenhouse Road</address>
+                    <city>Kingston</city>
+                    <state>RI</state>
+                    <postal>02881</postal>
+                </cntaddr>
+                <cntvoice>401-874-5054</cntvoice>
+                <cntemail>erica@edc.uri.edu</cntemail>
+                <cntinst>email preferred</cntinst>
+            </cntinfo>
+        </distrib>
+        <distliab>See access and use constraints information.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Esri shapefile</formname>
+                    <filedec>ZIP</filedec>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://www.rigis.org</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20161115</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>RI Department of Administration; Division of Information Technology</cntorg>
+                </cntorgp>
+                <cntpos>RIGIS Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>1 Capitol Hill</address>
+                    <city>Providence</city>
+                    <state>Rhode Island</state>
+                    <postal>02908</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>401-222-6483</cntvoice>
+                <cntfax>401-222-6482</cntfax>
+                <cntemail>rigis@admin.ri.gov</cntemail>
+                <hours>8:00 - 3:30</hours>
+                <cntinst>E-mail preferred</cntinst>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

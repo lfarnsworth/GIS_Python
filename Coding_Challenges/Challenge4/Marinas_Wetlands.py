@@ -6,12 +6,15 @@
 
 # Load ArcGIS toolset functions
 import arcpy
+import os
 
 # Specify marina and wetland shapefile locations:
-Marina_Shape_FilePath = r'C:\PYthon_Class\Coding_Challenges\challenge4\swmarina.shp'
-Wetland_Shape_FilePath = r'C:\PYthon_Class\Coding_Challenges\challenge4\NWI14.shp'
+main_input_directory = r"C:\Data\Students_2021\Farnsworth\Coding_Challenges\Challenge4"
+
+Marina_Shape_FilePath = os.path.join(main_input_directory, r'swmarina.shp')
+Wetland_Shape_FilePath = os.path.join(main_input_directory, r'NWI14.shp')
 # Specify output file for bad marinas:
-Bad_Marinas_table = r'C:\PYthon_Class\Coding_Challenges\challenge4\BadMarinas.dbf'
+Bad_Marinas_table = os.path.join(main_input_directory, r'BadMarinas.dbf')
 
 # # Print Field Names
 # print('Marina Fields: ')
@@ -26,9 +29,7 @@ with arcpy.da.SearchCursor(Marina_Shape_FilePath, ['FID']) as cursor:
         count_of_marinas += 1
         #print(row)
 
-
 print('There are ' + str(count_of_marinas) + ' total marinas in the given database')
-
 
 # set required parameters
 in_features = Marina_Shape_FilePath

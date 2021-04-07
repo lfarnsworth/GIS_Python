@@ -32,7 +32,7 @@ arcpy.env.overwriteOutput = True
 list_months = ["02", "04", "05", "07", "10", "11"]
 
 #  Set the output directory for NDVI files:
-outputDirectory = r"C:\PYthon_Class\Coding_Challenges\Coding_Challenge6\Step_3_data_lfs"
+outputDirectory = r"C:\Data\Students_2021\1_Data"
 if not os.path.exists(outputDirectory):
     os.mkdir(outputDirectory)
 
