@@ -42,17 +42,17 @@ The script outputs a CSV file of all the affected public access points that are 
 import arcpy
 import os
 arcpy.env.overwriteOutput = True
-
-# Modify below to fit your environment:
-base_folder = r"C:\Data\Students_2021\Farnsworth\Coding_Challenges\Midterm"
-arcpy.env.workspace = base_folder + "Data"
+# I updated this to utilize os.path.join - it should work now!
+# Modify base_folder to fit your environment:
+base_folder = r"C:\YOUR_FILE_PATH_HERE"
+arcpy.env.workspace = os.path.join(base_folder, "Data")
 
 # Process #1
 # Select all waste sites within 500 feet of a public shoreline access point
 Shoreline_Selection = arcpy.management.SelectLayerByLocation(
-    in_layer = os.path.join(base_folder, r"Data", "RIPDES_Sanitary_Waste_Sites.shp"),
+    in_layer = os.path.join(base_folder, "Data/RIPDES_Sanitary_Waste_Sites.shp"),
     overlap_type = "INTERSECT",
-    select_features = os.path.join(base_folder, r"Data", "Public_Shoreline_Access.shp"),
+    select_features = os.path.join(base_folder, "Data/Public_Shoreline_Access.shp"),
     search_distance = "500 Feet",
     selection_type = "NEW_SELECTION",
     invert_spatial_relationship = "NOT_INVERT"
@@ -60,7 +60,7 @@ Shoreline_Selection = arcpy.management.SelectLayerByLocation(
 
 # Process #2
 # 1 km buffer around the above selected waste sites.
-No_Swim_Areas_Shapefile = os.path.join(base_folder, "Data", "No_Swim.shp")
+No_Swim_Areas_Shapefile = "No_Swim.shp"
 Polluted_Shoreline_Buffer = arcpy.analysis.Buffer(
     in_features = Shoreline_Selection,
     out_feature_class = No_Swim_Areas_Shapefile,
@@ -77,7 +77,7 @@ Polluted_Shoreline_Buffer = arcpy.analysis.Buffer(
 Toxic_Water_Sites = "Toxic_Water_Sites.shp"
 arcpy.analysis.Clip(
     in_features = No_Swim_Areas_Shapefile,
-    clip_features = base_folder + r"Data\Coastal_Waters.shp",
+    clip_features = os.path.join(base_folder, "Data/Coastal_Waters.shp"),
     out_feature_class = Toxic_Water_Sites,
     cluster_tolerance = ""
 )
@@ -85,7 +85,7 @@ arcpy.analysis.Clip(
 # Process #4
 # Select intersecting buffer and public access sites to generate a list of sites that should be avoided for swimming
 Toxic_Swim_Sites = arcpy.management.SelectLayerByLocation(
-    in_layer = base_folder + r"Data\Public_Shoreline_Access.shp",
+    in_layer = os.path.join(base_folder, "Data/Public_Shoreline_Access.shp"),
     overlap_type = "INTERSECT",
     select_features = Toxic_Water_Sites,
     search_distance = "500 Feet",
