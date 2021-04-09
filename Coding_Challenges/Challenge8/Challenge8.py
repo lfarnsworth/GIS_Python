@@ -13,6 +13,8 @@ Plan the task to take an hour or two, so use one of the simpler examples from ou
 
 
 # Taken from coding challenge 6 (Rewrote for loop as a function & added verbosity option) :
+# I could not upload the Step 3 Data File to Github because it is too large. Here is the link to the file in your repo:
+# https://github.com/marecotec/Course_ArcGIS_Python/raw/master/Classes/06_Cheating/Step_3_data_lfs.zip
 
 import arcpy
 import os
