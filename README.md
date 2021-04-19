@@ -7,7 +7,7 @@
 
 ## :zap: *A little About Me* :zap:
 <p align="center">
-<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=_DPrDkUrnAwAX870ScY&_nc_ht=scontent-bos3-1.xx&oh=daf3fff9884ec028fcf9f64efba241f8&oe=60419D57" width="200" height="200" />
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/90198183_10217122612485913_5189572639743541248_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=udJo3bJ-nrEAX8riqLP&_nc_ht=scontent-bos3-1.xx&oh=ff0bb72b184b52509527bd411900eaef&oe=60A4E3B6" width="200" height="200" />
   <p align="center">  
 Trip to Ireland, 2019.
 
