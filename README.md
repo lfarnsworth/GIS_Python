@@ -19,7 +19,7 @@ Trip to Ireland, 2019.
 * My undergraduate degree is in Environmental Science from Northeastern Univesity in Boston.
 * Prior to starting school at URI I worked as a science educator with Save the Bay. We took students of all ages and from all backgrounds onto our boats to learn about Narragansett Bay. While in this role, I earned my captain license :anchor: and started driving the boat. 
 <p align="center">
-<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/12743721_10205770700015196_796221561630944052_n.jpg?_nc_cat=104&ccb=2&_nc_sid=a9b1d2&_nc_ohc=UAkfOWtQUg4AX-RWFC6&_nc_oc=AQlxh983cDoVw0yz9JmJzHnWfCZ-WhWBQ3pXHvpnrXqN8xojhRaeBgY769V21QE73V10RMLjwvP1dK2DHLqCKP-q&_nc_ht=scontent-bos3-1.xx&oh=5e34b15e4ae27acdeb56ebfba89dbaf1&oe=60439284" width="200" height ="200" />
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.18169-9/12743721_10205770700015196_796221561630944052_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=a9b1d2&_nc_ohc=Wiw7EmvKuNQAX9gGxRu&_nc_oc=AQkjaXyew_vxCfmGTH9syW4-_w2uH4yaX7reJJZuTZ-8_7ClGgoxXqyL8XNYbuVT5RINXPR6gVX_ENsYqS8OGqNd&_nc_ht=scontent-bos3-1.xx&oh=d4b3b52cc46d3504c69bf490baff2e5a&oe=60A25AB5" width="200" height ="200" />
   <p align="center">
 Our boat was in the water year-round. In the winter we gave seal and lighthouse tours. It was very very cold. :snowflake: 
     
@@ -39,7 +39,7 @@ Very Happy Pup
   <p align="center">
 Photo from Jackson Hole, WY
 <p align="center">
-<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/69527869_10215500572575929_2785012465816043520_n.jpg?_nc_cat=111&ccb=2&_nc_sid=19026a&_nc_ohc=SPqsFRaNEacAX9bcrDP&_nc_ht=scontent-bos3-1.xx&oh=7f7320fcf376c350b56e38c672e35143&oe=6042D2FB" width="200" height="200" /> 
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/69527869_10215500572575929_2785012465816043520_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=19026a&_nc_ohc=Fmcccsl6v9MAX8xeDPR&_nc_ht=scontent-bos3-1.xx&oh=8d096f23888fd698df24791534080675&oe=60A3111A" width="200" height="200" /> 
  
 * This used to be my backyard view when I rented a tiny attic apartment in Newport. I miss it!
 _______________________________________________________________________________________________________
