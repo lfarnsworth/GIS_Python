@@ -29,13 +29,13 @@ ________________________________________________________________________________
 
 * I have a super cute dog :dog: . Her name is Olga, and she is afraid of everything.
 <p align="center">
-<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/72124833_10215782321739482_2277936734085840896_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=bAHdbNZ_AowAX_j9Ua_&_nc_ht=scontent-bos3-1.xx&oh=7c54416b51c11f7833138b9d2cf189d8&oe=60439190" width="200" height="200" /> 
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/72124833_10215782321739482_2277936734085840896_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=yTDDHBjc9tAAX9viBvb&_nc_ht=scontent-bos3-1.xx&oh=bd4646788f2bf33bd32e4a4fecd15fb8&oe=60A4315D" width="200" height="200" /> 
   <p align="center">
 Very Happy Pup
 
 * I **love** skiing, but haven't been this year because of COVID-19 restrictions.
 <p align="center">
-<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.0-9/52905296_10214148849023685_1026937405006938112_o.jpg?_nc_cat=102&ccb=2&_nc_sid=84a396&_nc_ohc=Y43x18-5AuUAX9_kJWC&_nc_ht=scontent-bos3-1.xx&oh=f5574e9d9a85247d3cfc88b358b01768&oe=6042D924" width="200" height="200" />
+<img src="https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/70510202_10215500417212045_6566579935555616768_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_ohc=YGOfpkFUajQAX-CL-9E&_nc_ht=scontent-bos3-1.xx&oh=a593a6e15326bcf5c4cde6a877a5f8cc&oe=60A1C7BC" width="200" height="200" />
   <p align="center">
 Photo from Jackson Hole, WY
 <p align="center">
