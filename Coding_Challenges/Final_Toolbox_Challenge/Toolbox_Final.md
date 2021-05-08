@@ -1,3 +1,6 @@
+#Tool to Identify Marinas in close proximity to stranded species 
+##- Useful for Mystic Aquarium Rescue Volunteers
+
 This toolbox takes two sets of data: Mystic Stranded Species csv file and the swmarinas shapefile.
 It converts the csv into a shapefile and adds a buffer around the stranded species- the size of the buffer and units of measurement are up to the user.
 The tool then takes the buffered stranded species and with the added marinas shapefile, uses the clip feature to clip only marinas that are within a certain proximity of the stranded species.
