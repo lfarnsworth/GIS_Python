@@ -1,7 +1,7 @@
 # Tool to Identify Rhode Island Marinas in Close Proximity to Stranded Marine Species 
 ## Useful for Mystic Aquarium Rescue Volunteers
 
-This toolbox takes two sets of data: 
+*This toolbox takes two sets of data:* 
 
 1. Mystic Stranded Species .csv file and 
 2. swmarinas shapefile from RIGIS.
