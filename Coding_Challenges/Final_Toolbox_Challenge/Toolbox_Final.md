@@ -7,4 +7,4 @@ The tool then takes the buffered stranded species and with the added marinas sha
 The proximity is up to the user, since it can be manually entered in script 2. 
 This tool can be useful for Mystic Aquarium volunteers / Marine Mammal Rescue Team as a way to identify and contact local marinas in RI that frequently have stranded species nearby. 
 
-***Data are provided in an attached folder
+*** Data are provided in an attached folder
